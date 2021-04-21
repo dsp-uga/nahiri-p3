@@ -3,7 +3,7 @@
 ## Therory
 
 <a href= "https://arxiv.org/pdf/1505.04597.pdf">U-Net: Convolutional Networks for Biomedical Image Segmentation</a>
-![]("figures/unet.png")
+![](figures/unet.png)
 
 ## Models
 Our team developed two models to solve this classification problem
