@@ -9,11 +9,9 @@ in regular, rhythmic patterns to perform myriad tasks, from moving nutrients in 
 cell-cell signaling pathways to generating calcium fluid flow in early cell differentiation. Cilia, and their beating
 patterns, are increasingly being implicated in a wide variety of syndromes that affected multiple organs.
 
-Example Image:
+Example: Image (left) and Mask (right)
 
 ![](figures/img.png) ![](figures/mask.png)
-
-Example Mask
 
 
 
