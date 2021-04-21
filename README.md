@@ -9,6 +9,14 @@ in regular, rhythmic patterns to perform myriad tasks, from moving nutrients in 
 cell-cell signaling pathways to generating calcium fluid flow in early cell differentiation. Cilia, and their beating
 patterns, are increasingly being implicated in a wide variety of syndromes that affected multiple organs.
 
+Example Image:
+
+![](figures/img.png)
+
+Example Mask
+
+![](figures/mask.png)
+
 ## Therory
 
 <a href= "https://arxiv.org/pdf/1505.04597.pdf">U-Net: Convolutional Networks for Biomedical Image Segmentation</a>
