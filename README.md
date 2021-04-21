@@ -1,6 +1,8 @@
 # nahiri-p3
 
 ## Therory
+<li><a href= "https://arxiv.org/pdf/1505.04597.pdf"> Clint Morris</a></li>
+
 
 ## Models
 Our team developed two models to solve this classification problem
