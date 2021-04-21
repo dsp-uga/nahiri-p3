@@ -2,7 +2,12 @@
 
 ## Introduction
 
+Goal: Designing an algorithm that learns how to segment cilia. 
 
+Background: Cilia are microscopic hairlike structures that protrude from literally every cell in your body. They beat
+in regular, rhythmic patterns to perform myriad tasks, from moving nutrients in to moving irritants out to amplifying
+cell-cell signaling pathways to generating calcium fluid flow in early cell differentiation. Cilia, and their beating
+patterns, are increasingly being implicated in a wide variety of syndromes that affected multiple organs.
 
 ## Therory
 
