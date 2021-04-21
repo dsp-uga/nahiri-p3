@@ -4,9 +4,9 @@
 
 <a href= "https://arxiv.org/pdf/1505.04597.pdf">U-Net: Convolutional Networks for Biomedical Image Segmentation</a>
 
-```
-'The  architecture  consists  of  a  contracting  path  to  capturecontext and a symmetric expanding path that enables precise localiza-tion. We show that such a network can be trained end-to-end from veryfew  images  and  outperforms  the  prior  best  method  (a  sliding-windowconvolutional network) on the ISBI challenge for segmentation of neu-ronal  structures  in  electron  microscopic  stacks. '
-```
+
+"The  architecture  consists  of  a  contracting  path  to  capturecontext and a symmetric expanding path that enables precise localiza-tion. We show that such a network can be trained end-to-end from veryfew  images  and  outperforms  the  prior  best  method  (a  sliding-windowconvolutional network) on the ISBI challenge for segmentation of neu-ronal  structures  in  electron  microscopic  stacks."
+
 
 
 ![](figures/unet.png)
