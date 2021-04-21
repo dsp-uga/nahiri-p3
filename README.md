@@ -11,11 +11,11 @@ patterns, are increasingly being implicated in a wide variety of syndromes that 
 
 Example Image:
 
-![](figures/img.png)
+![](figures/img.png) ![](figures/mask.png)
 
 Example Mask
 
-![](figures/mask.png)
+
 
 ## Therory
 
