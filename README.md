@@ -1,7 +1,8 @@
 # nahiri-p3
 
 ## Therory
-<li><a href= "https://arxiv.org/pdf/1505.04597.pdf"> Clint Morris</a></li>
+
+<a href= "https://arxiv.org/pdf/1505.04597.pdf">U-Net: Convolutional Networks for Biomedical Image Segmentation</a><
 
 
 ## Models
