@@ -22,7 +22,7 @@ Our team developed two models to solve this classification problem
 Please see our [CONTRIBUTORS]() file for more details.
 
 ## Authors 
-<ul> <li><a href= "https://github.com/clint_kristopher_morris"> Clint Morris</a></li>
+<ul> <li><a href= "https://github.com/clint_kristopher_morris"> Clint Morris</a></li></ul>
 
 ## License
 This project is licensed under the MIT License - see the <a href="">LICENSE</a> file for the details.
