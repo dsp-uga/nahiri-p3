@@ -5,7 +5,7 @@
 ## Models
 Our team developed two models to solve this classification problem
 
-* Decision Tree Method
+* Unet
 
 ### ResNet Model
 
