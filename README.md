@@ -12,7 +12,9 @@
 ## Models
 Our team developed two models to solve this classification problem
 
-* Unet: located in the Unet_v2.ipynb file
+* Unet: located in the <a href= "https://github.com/dsp-uga/nahiri-p3/blob/main/Unet_v2.ipynb">Unet_v2.ipynb</a> file
+
+
 
 ### ResNet Model
 
