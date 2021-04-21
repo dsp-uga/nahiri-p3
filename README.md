@@ -12,7 +12,7 @@
 ## Models
 Our team developed two models to solve this classification problem
 
-* Unet
+* Unet: located in the Unet_v2.ipynb file
 
 ### ResNet Model
 
