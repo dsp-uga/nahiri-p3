@@ -31,11 +31,16 @@ Example: Image (left) and Mask (right)
 ## Models
 Our team developed two models to solve this classification problem
 
-* Unet: located in the <a href= "https://github.com/dsp-uga/nahiri-p3/blob/main/Unet_v2.ipynb">Unet_v2.ipynb</a> file
-
-
+### Unet: 
+* located in the <a href= "https://github.com/dsp-uga/nahiri-p3/blob/main/Unet_v2.ipynb">Unet_v2.ipynb</a> file
+* [Theory](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 
 ### ResNet Model
+
+### PSPNet: 
+
+* located in branch 'ruili''s [Run\_model.ipynb](https://github.com/dsp-uga/nahiri-p3/blob/ruili/Run_model.ipynb)
+* [Theory](https://hszhao.github.io/projects/pspnet/index.html)
 
 ## Contributions
 Please see our <a href= "https://github.com/dsp-uga/nahiri-p3/blob/main/Contributors.md"> Contributors </a> file for more details.
