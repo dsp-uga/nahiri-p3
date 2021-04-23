@@ -10,6 +10,10 @@
 * GCC 9.3.0
 * MMCV v1.3.1
 * MMSEG 0.12.0
+
+## Model
+* [PSPNet](https://hszhao.github.io/projects/pspnet/index.html)
+	
 ## Data's Directroy Tree
 * my\_datasets
 	* ann\_dir(for masks)
@@ -19,5 +23,5 @@
 		* train
 
 ## Reference
+* [MMCV](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/get_started.md#installation)
 * [MMSegmentation Tutorial](https://github.com/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb)
-
