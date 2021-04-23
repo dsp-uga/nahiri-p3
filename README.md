@@ -25,3 +25,4 @@
 ## Reference
 * [MMCV](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/get_started.md#installation)
 * [MMSegmentation Tutorial](https://github.com/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb)
+* [PSPNet](https://github.com/hszhao/PSPNet)
