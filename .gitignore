@@ -1,0 +1,11 @@
+./test/
+
+./train/
+
+./__pycache__
+
+./mmcv
+
+./mmsegmentation
+
+./predictions
