@@ -38,7 +38,7 @@ Our team developed two models to solve this classification problem
 ### ResNet Model
 
 ## Contributions
-Please see our <a href= "https://github.com/dsp-uga/nahiri-p3/blob/main/Contributors.md"> file for more details.
+Please see our <a href= "https://github.com/dsp-uga/nahiri-p3/blob/main/Contributors.md"> Contributors </a> file for more details.
 
 ## Authors 
 <ul> <li><a href= "https://github.com/clint_kristopher_morris"> Clint Morris</a></li></ul>

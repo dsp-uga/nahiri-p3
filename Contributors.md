@@ -1,5 +1,5 @@
 # nahiri-p3
 
-Clint Morris \n
-Ruili Fang \n
-Ankit Lalwani \n
+Clint Morris <br />
+Ruili Fang <br />
+Ankit Lalwani <br />
