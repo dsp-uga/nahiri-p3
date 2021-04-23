@@ -39,7 +39,7 @@ Our team developed two models to solve this classification problem
 
 ### PSPNet: 
 
-* located in branch 'ruili''s [Run\_model.ipynb](https://github.com/dsp-uga/nahiri-p3/blob/ruili/Run_model.ipynb)
+* located in branch 'ruili'-> [Run\_model.ipynb](https://github.com/dsp-uga/nahiri-p3/blob/ruili/Run_model.ipynb)
 * [Theory](https://hszhao.github.io/projects/pspnet/index.html)
 
 ## Contributions
